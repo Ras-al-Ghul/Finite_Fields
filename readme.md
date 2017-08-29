@@ -1,10 +1,10 @@
-#Finite Field Construction
+# Finite Field Construction
 
-###To execute
+### To execute
 
 Compile and run
 
-###List of files
+### List of files
 
 - `Euclidean.cpp` - Implementation of Euclidean algorithm for integers
 - `ExtendedEuclidean.cpp` - Implementation of Extended Euclidean algorithm for integers
